@@ -1,10 +1,11 @@
 # Virtualization-AWS-13thJanuary
 Bootcamp Homework Submission
 
-
+Part-1 AWS 
 AWS Cloud Practitioner Credly Badge Link: https://www.credly.com/badges/f0fcb702-b8c6-438d-a8a6-a7d4aa7d8229/public_url
 
-VIRTUALIZATION HOMEWORK SCREENSHOTS
+
+Part-2 Virtualization
 
 Details section for VM 
 ![image](https://github.com/user-attachments/assets/233fce73-b246-4dbc-bb0c-eecd4eb455a2)
